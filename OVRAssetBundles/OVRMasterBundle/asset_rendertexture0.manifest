@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1897524183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e49aade72e71df6369077c68f582ef2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89010fa122ffffe6344faa21dd7249a1
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Video/VideoTexture.renderTexture
+Dependencies: []

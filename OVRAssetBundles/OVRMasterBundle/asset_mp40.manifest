@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 908940533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a07b2c53d5ad3fdc49fd33574aa74c4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Video/1 - Men QF 3 SWE-DEN - London 2012 Olympic Games.mp4
+Dependencies: []

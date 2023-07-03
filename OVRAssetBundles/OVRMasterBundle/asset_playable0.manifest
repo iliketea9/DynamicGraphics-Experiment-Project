@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2262033097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d7b05143f0a2e005d6135844e085049
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f8384e3ec00f940989a4c42c04b8a45
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 442072544, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 114
+  Script: {fileID: 46519060, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 114
+  Script: {fileID: 2024714994, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 114
+  Script: {fileID: 1467732076, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 114
+  Script: {fileID: 337831424, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/EventManager/EventTimeline.playable
+Dependencies:
+- C:/Users/clara/Unity/Dynamism Augmentation on Handball/OVRAssetBundles/OVRMasterBundle/asset_anim0

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 562700218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42f6ba1c7166e1ed081ba76fb3cee989
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0357199faf5d7fc35cfc0b4f44b4dd06
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/BasicCondition1.unity
+Dependencies:
+- C:/Users/clara/Unity/Dynamism Augmentation on Handball/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/clara/Unity/Dynamism Augmentation on Handball/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0
+- C:/Users/clara/Unity/Dynamism Augmentation on Handball/OVRAssetBundles/OVRMasterBundle/asset_mp40

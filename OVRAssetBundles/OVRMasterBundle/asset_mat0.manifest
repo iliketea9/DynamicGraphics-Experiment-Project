@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2676737997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9903e0de854a2f6534ceacda356ad8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 622e0870ec7bd179762f4d6b0042a929
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Video/Materials/VideoTexture.mat
+Dependencies:
+- C:/Users/clara/Unity/Dynamism Augmentation on Handball/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0

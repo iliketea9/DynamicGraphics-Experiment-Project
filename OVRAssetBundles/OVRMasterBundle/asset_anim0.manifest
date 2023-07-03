@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 477874908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7728d9c7f34cf6d221531f7493adef07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animations/Base/Suspense.anim
+- Assets/Animations/Base/Shot.anim
+- Assets/Animations/Base/Result.anim
+- Assets/Animations/Base/Start.anim
+- Assets/Animations/Base/End.anim
+Dependencies: []
